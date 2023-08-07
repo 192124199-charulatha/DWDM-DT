@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.1.2//EN" "http://www.oasis-open.org/docbook/xml/4.1.2/docbookx.dtd">
+<article lang="en-IN">
+  <para>                                                                                        Charulatha(192124199)</para>
+  <para/>
+  <para>CSA1608 DWDM- DT                           </para>
+  <para>PRACTICAL SESSION </para>
+  <para/>
+  <para>1) DATA PREPROCESSING AND ANALYSIS FOR DATASET </para>
+  <para>USING WEKA</para>
+  <para/>
+  <para/>
+  <para>
+    <inlinegraphic fileref="embedded:Picture 952740952" width="9.808cm" depth="6.4cm"/>
+  </para>
+  <para/>
+  <para/>
+  <para/>
+  <para/>
+  <para>
+    <inlinegraphic fileref="embedded:Picture 13" width="9.808cm" depth="7.106cm"/>
+  </para>
+  <para/>
+  <para/>
+  <para/>
+  <para/>
+  <para/>
+  <para>2) DATA SEGMENTATION BYK- MEANS CLUSTER</para>
+  <para>USING WEKA AND R-TOOL</para>
+  <para/>
+  <para>
+    <inlinegraphic fileref="embedded:Picture 23" width="10.604cm" depth="7.572cm"/>
+  </para>
+  <para/>
+  <para/>
+  <para/>
+  <para/>
+  <para>
+    <inlinegraphic fileref="embedded:Picture 24" width="10.553cm" depth="7.72cm"/>
+  </para>
+  <para/>
+  <para/>
+  <para/>
+  <para/>
+  <para>3) DATASEGMENTATION BY EXPECTATION</para>
+  <para> MAXIMISATION ALGORITHM </para>
+  <para>THROUGH WEKA</para>
+  <para/>
+  <para/>
+  <para/>
+  <para/>
+  <para>
+    <inlinegraphic fileref="embedded:Picture 32" width="9.971cm" depth="6.596cm"/>
+  </para>
+  <para/>
+  <para>
+    <inlinegraphic fileref="embedded:Picture 35" width="9.979cm" depth="6.952cm"/>
+  </para>
+  <para/>
+  <para>
+    <inlinegraphic fileref="embedded:Picture 41" width="10.08cm" depth="7.212cm"/>
+  </para>
+  <para/>
+  <para/>
+  <para>
+    <inlinegraphic fileref="embedded:Picture 37" width="9.815cm" depth="6.571cm"/>
+  </para>
+  <para/>
+  <para/>
+  <para/>
+  <para>4) DATA SEGMENTATION BY COBWEB – HIERARCHIAL CLUSTERING </para>
+  <para>ALGORITHM USING WEKA TOOL</para>
+  <para/>
+  <para/>
+  <para>
+    <inlinegraphic fileref="embedded:Picture 1" width="10.038cm" depth="5.245cm"/>
+  </para>
+  <para/>
+  <para/>
+  <para>
+    <inlinegraphic fileref="embedded:Image2" width="10.276cm" depth="7.9cm"/>
+  </para>
+  <para/>
+  <para/>
+  <para/>
+  <para/>
+  <para>5) FREQUENT PATTERN MINING USING ASSOCIATION RULE </para>
+  <para>THROUGH </para>
+  <para>WEKA AND R TOOLS</para>
+  <para/>
+  <para/>
+  <para/>
+  <para/>
+  <para>
+    <inlinegraphic fileref="embedded:Image3" width="9.369cm" depth="6.69cm"/>
+  </para>
+  <para/>
+  <para/>
+  <para/>
+  <para/>
+  <para/>
+  <para/>
+  <para/>
+  <para/>
+  <para/>
+  <para/>
+  <para/>
+  <para/>
+  <para/>
+  <para/>
+  <para>
+    <inlinegraphic fileref="embedded:Image4" width="10.621cm" depth="7.831cm"/>
+  </para>
+  <para/>
+  <para/>
+  <para/>
+  <para>
+    <inlinegraphic fileref="embedded:Picture 3" width="10.703cm" depth="7.692cm"/>
+  </para>
+  <para/>
+  <para/>
+  <para>
+    <inlinegraphic fileref="embedded:Picture 2" width="10.748cm" depth="7.762cm"/>
+  </para>
+  <para/>
+  <para>
+    <inlinegraphic fileref="embedded:Image5" width="11.338cm" depth="9.856cm"/>
+  </para>
+  <para/>
+  <para/>
+  <para/>
+  <para/>
+  <para>6) FREQUENT PATTERN MINING USING FP GROWTH</para>
+  <para>THROUGH WEKA TOOL</para>
+  <para/>
+  <para/>
+  <para/>
+  <para/>
+  <para/>
+  <para/>
+  <para>
+    <inlinegraphic fileref="embedded:Picture 7" width="10.161cm" depth="6.986cm"/>
+  </para>
+  <para/>
+  <para>
+    <inlinegraphic fileref="embedded:Picture 6" width="13.101cm" depth="9.362cm"/>
+  </para>
+  <para/>
+  <para/>
+  <para/>
+  <para/>
+  <para/>
+  <para>
+    <inlinegraphic fileref="embedded:Picture 5" width="11.101cm" depth="8.75cm"/>
+  </para>
+  <para/>
+  <para/>
+  <para/>
+  <para/>
+  <para/>
+  <para/>
+  <para>
+    <inlinegraphic fileref="embedded:Picture 4" width="11.338cm" depth="7.974cm"/>
+  </para>
+  <para/>
+  <para/>
+  <para/>
+  <para/>
+  <para/>
+  <para>7)  PREDICTION OF CATEGORICAL DATA USING DECISION TREE </para>
+  <para>ALGORTIHM THROUGH WEKA</para>
+  <para/>
+  <para>
+    <inlinegraphic fileref="embedded:Picture 16" width="10.632cm" depth="7.409cm"/>
+  </para>
+  <para/>
+  <para>or.</para>
+  <para>
+    <inlinegraphic fileref="embedded:Picture 15" width="10.985cm" depth="5.739cm"/>
+  </para>
+  <para>
+    <inlinegraphic fileref="embedded:Picture 14" width="10.773cm" depth="8.067cm"/>
+  </para>
+  <para/>
+  <para>
+    <inlinegraphic fileref="embedded:Image6" width="11.666cm" depth="8.185cm"/>
+  </para>
+  <para/>
+  <orderedlist>
+    <listitem>
+      <para>CROSS VALIDATION  ANALYSIS :</para>
+    </listitem>
+  </orderedlist>
+  <para/>
+  <orderedlist>
+    <listitem>
+      <para>When cross validation folds are 10 :</para>
+    </listitem>
+  </orderedlist>
+  <para/>
+  <para>
+    <inlinegraphic fileref="embedded:Picture 12" width="9.644cm" depth="7.175cm"/>
+  </para>
+  <para/>
+  <para/>
+  <para>
+    <inlinegraphic fileref="embedded:Picture 11" width="10.725cm" depth="7.221cm"/>
+  </para>
+  <para/>
+  <para>
+    <inlinegraphic fileref="embedded:Picture 10" width="11.761cm" depth="8.984cm"/>
+  </para>
+  <orderedlist>
+    <listitem>
+      <para>When cross validation folds are : 05  :-</para>
+    </listitem>
+  </orderedlist>
+  <para/>
+  <para>
+    <inlinegraphic fileref="embedded:Picture 9" width="12.018cm" depth="7.621cm"/>
+  </para>
+  <para/>
+  <para>
+    <inlinegraphic fileref="embedded:Picture 8" width="12.089cm" depth="9.08cm"/>
+  </para>
+  <para/>
+  <para>
+    <inlinegraphic fileref="embedded:Image7" width="12.091cm" depth="8.828cm"/>
+  </para>
+  <para/>
+  <para/>
+  <para/>
+  <para>8)  PREDICTION OF CATEGORICAL DATA USING SMO</para>
+  <para>ALGORTIHM THROUGH WEKA</para>
+  <para/>
+  <para/>
+  <para/>
+  <para>
+    <inlinegraphic fileref="embedded:Image8" width="11.902cm" depth="8.491cm"/>
+  </para>
+  <para/>
+  <para>
+    <inlinegraphic fileref="embedded:Image9" width="11.29cm" depth="7.833cm"/>
+  </para>
+  <para/>
+  <para>
+    <inlinegraphic fileref="embedded:Picture 22" width="10.748cm" depth="8.044cm"/>
+  </para>
+  <para/>
+  <para/>
+  <para/>
+  <para/>
+  <para>
+    <inlinegraphic fileref="embedded:Picture 21" width="12.278cm" depth="8.984cm"/>
+  </para>
+  <para/>
+  <para>
+    <inlinegraphic fileref="embedded:Picture 20" width="11.338cm" depth="7.739cm"/>
+  </para>
+  <para/>
+  <para/>
+  <para>
+    <inlinegraphic fileref="embedded:Picture 19" width="11.36cm" depth="10.138cm"/>
+  </para>
+  <para/>
+  <para/>
+  <para/>
+  <para>
+    <inlinegraphic fileref="embedded:Picture 18" width="11.338cm" depth="8.374cm"/>
+  </para>
+  <para/>
+  <para>
+    <inlinegraphic fileref="embedded:Picture 17" width="10.703cm" depth="7.48cm"/>
+  </para>
+  <para/>
+  <para/>
+  <para/>
+  <para/>
+  <para>9) EVALUATING ACCURACY OF THE CLASSIFIERS</para>
+  <para/>
+  <para/>
+  <para/>
+  <para/>
+  <para/>
+  <para>
+    <inlinegraphic fileref="embedded:Picture 39" width="9.907cm" depth="5.758cm"/>
+  </para>
+  <para/>
+  <para/>
+  <para>
+    <inlinegraphic fileref="embedded:Picture 38" width="9.907cm" depth="7.325cm"/>
+  </para>
+  <para/>
+  <para/>
+  <para/>
+  <orderedlist>
+    <listitem>
+      <para>Naïve Bayes Algorithm :</para>
+    </listitem>
+  </orderedlist>
+  <para/>
+  <para/>
+  <para>Output :</para>
+  <para/>
+  <para>
+    <inlinegraphic fileref="embedded:Image10" width="10.563cm" depth="8.044cm"/>
+  </para>
+  <para/>
+  <para>
+    <inlinegraphic fileref="embedded:Picture 36" width="10.881cm" depth="6.901cm"/>
+  </para>
+  <para>
+    <inlinegraphic fileref="embedded:Image11" width="11.241cm" depth="8.595cm"/>
+  </para>
+  <para/>
+  <para>
+    <inlinegraphic fileref="embedded:Picture 34" width="12.532cm" depth="8.637cm"/>
+  </para>
+  <para>
+    <inlinegraphic fileref="embedded:Picture 33" width="12.532cm" depth="8.531cm"/>
+  </para>
+  <para/>
+  <para>
+    <inlinegraphic fileref="embedded:Image12" width="11.854cm" depth="9.209cm"/>
+  </para>
+  <para/>
+  <para/>
+  <orderedlist>
+    <listitem>
+      <para>J48 Algorithm :</para>
+    </listitem>
+  </orderedlist>
+  <para>                </para>
+  <para>         </para>
+  <para/>
+  <para>Output :</para>
+  <para/>
+  <para/>
+  <para>
+    <inlinegraphic fileref="embedded:Picture 31" width="9.738cm" depth="8.425cm"/>
+  </para>
+  <para/>
+  <para/>
+  <para/>
+  <para/>
+  <para>
+    <inlinegraphic fileref="embedded:Picture 30" width="11.854cm" depth="8.235cm"/>
+  </para>
+  <para/>
+  <para>
+    <inlinegraphic fileref="embedded:Picture 29" width="11.283cm" depth="8.447cm"/>
+  </para>
+  <para/>
+  <para>
+    <inlinegraphic fileref="embedded:Picture 28" width="11.812cm" depth="8.214cm"/>
+  </para>
+  <para/>
+  <para/>
+  <para/>
+  <orderedlist>
+    <listitem>
+      <para>K-Nearest Neighbor :</para>
+    </listitem>
+  </orderedlist>
+  <para>                </para>
+  <para>        </para>
+  <para/>
+  <para/>
+  <para>Output :</para>
+  <para/>
+  <para>
+    <inlinegraphic fileref="embedded:Picture 27" width="10.436cm" depth="9.949cm"/>
+  </para>
+  <para/>
+  <para/>
+  <para/>
+  <para>
+    <inlinegraphic fileref="embedded:Picture 26" width="11.135cm" depth="8.15cm"/>
+  </para>
+  <para/>
+  <para>
+    <inlinegraphic fileref="embedded:Picture 25" width="11.05cm" depth="7.812cm"/>
+  </para>
+  <para/>
+  <para/>
+  <para/>
+  <para/>
+  <para>NUMERICAL PREDICTION ANALYSIS USING LINEAR </para>
+  <para>REGRESSION THROUGH WEKA</para>
+  <para/>
+  <para/>
+  <para/>
+  <para>
+    <inlinegraphic fileref="embedded:Picture 42" width="11.156cm" depth="8.193cm"/>
+  </para>
+  <para>OBSERVATION :</para>
+  <para/>
+  <orderedlist>
+    <listitem>
+      <para>When cross validation folds = 05 :</para>
+    </listitem>
+  </orderedlist>
+  <para/>
+  <para>
+    <inlinegraphic fileref="embedded:Image13" width="11.177cm" depth="7.367cm"/>
+  </para>
+  <para/>
+  <orderedlist>
+    <listitem>
+      <para>When cross validation folds = 10  :</para>
+    </listitem>
+  </orderedlist>
+  <para>
+    <inlinegraphic fileref="embedded:Picture 40" width="11.156cm" depth="7.198cm"/>
+  </para>
+  <para/>
+  <para/>
+  <para/>
+  <para/>
+  <para/>
+  <para/>
+  <para/>
+  <para/>
+  <para/>
+  <para/>
+  <para/>
+  <para/>
+  <para/>
+  <para/>
+  <para/>
+  <para/>
+  <para/>
+  <para/>
+</article>
